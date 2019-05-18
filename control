@@ -1,0 +1,9 @@
+Package: ch.marcoroth.notrecording
+Name: NotRecording
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Adds an obtrusive banner to the video viewfinder to tell you that you are not recording a video.
+Maintainer: Marco Roth
+Author: Marco Roth
+Section: Tweaks
