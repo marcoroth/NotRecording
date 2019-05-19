@@ -1,6 +1,6 @@
 # NotRecording
 
-![](images/banner.png)
+![](images/Banner.png)
 
 ## Description
 
